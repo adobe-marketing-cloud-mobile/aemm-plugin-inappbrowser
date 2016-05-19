@@ -1,0 +1,29 @@
+{
+  "name": "aemm-plugin-inappbrowser",
+  "version": "1.1.1",
+  "description": "AEMM InAppBrowser Plugin",
+  "cordova": {
+    "id": "aemm-plugin-inappbrowser",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe-marketing-cloud-mobile/aemm-plugin-inappbrowser.git"
+  },
+  "keywords": [
+    "cordova",
+    "inappbrowser",
+    "cordova-ios",
+    "cordova-android",
+    "aem",
+    "aemm",
+    "aemmobile",
+    "browser",
+    "inappbrowser"
+  ],
+  "author": "Adobe",
+  "license": "Apache 2.0"
+}
